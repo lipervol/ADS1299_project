@@ -1,0 +1,1 @@
+pyinstaller --add-data="icon.ico;." --add-data="logo.png;." -i="icon.ico" -wF msg_client.py
